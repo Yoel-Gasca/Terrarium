@@ -3,13 +3,13 @@ body {
     background-color:#3b3b3b
 }
 
+body{
+	display: grid;
+}
+
 h1 {
     color: #8d632f;
 	text-align: center;
-}
-
-#page{
-    display: inline;
 }
 
 #left-container {
