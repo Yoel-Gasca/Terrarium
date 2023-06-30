@@ -6,6 +6,9 @@ Un terrario es un espacio, que puede ser un recipiente de estilo pecera, en el q
 
 Los terrarios pueden ser desérticos, selváticos, tropicales, entre muchas otras opciones que presentan diferentes grados de dificultad, tanto para su diseño como para su mantenimiento. <br/>
 
+![image](https://github.com/Yoel-Gasca/Terrarium/assets/83617933/c5e539de-89c7-4c54-ad70-8045568814b2)
+
+## Terrario Virtual
 ![image](https://github.com/Yoel-Gasca/Terrarium/assets/83617933/0ae779c0-39e2-421a-acbf-903d5b18342a)
 
 <strong>Arma la maqueta de un terrarrio:</strong> <br/>
