@@ -8,7 +8,7 @@ Los terrarios pueden ser desérticos, selváticos, tropicales, entre muchas otra
 
 ![image](https://github.com/Yoel-Gasca/Terrarium/assets/83617933/0ae779c0-39e2-421a-acbf-903d5b18342a)
 
-Arma la maqueta de un terrarrio: <br/>
+<strong>Arma la maqueta de un terrarrio:</strong> <br/>
 
 ![image](https://github.com/Yoel-Gasca/Terrarium/assets/83617933/440cec30-8533-438a-a703-34c5011926f1)
 
